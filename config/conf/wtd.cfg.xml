@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wtd-configuration>
+	<host-url>
+		<url name="https://www.baidu.com" />
+	</host-url>
+	<Browser>
+		<!-- fireFox location="C:\Program Files\Mozilla Firefox\firefox.exe"/ -->
+		<!--chrome location="\Applications\Google Chrome.app"/ -->
+		<!-- ie location=""/ -->
+<!-- 		<chrome location="\Applications\Google Chrome.app"></chrome>
+ -->
+		<chrome location=""></chrome>
+  		<!--<safari location=""></safari>-->
+ 	
+ </Browser>
+	<MailReceptor>
+		<user email="158109016@qq.com"></user>
+	</MailReceptor>
+</wtd-configuration>

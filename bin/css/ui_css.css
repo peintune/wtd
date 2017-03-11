@@ -1,0 +1,13 @@
+.scene {
+	-fx-font: 14pt "Cambria Bold";
+	-fx-color: #e79423;
+	-fx-background: #67644e;
+}
+
+.button {
+	-fx-text-fill: #006464;
+	-fx-background-color: #e79423;
+	-fx-border-radius: 20;
+	-fx-background-radius: 20;
+	-fx-padding: 5;
+}

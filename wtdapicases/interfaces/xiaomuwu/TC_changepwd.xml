@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<case description="change the userlogin passwd" type="post">
+	<testApi
+		api="http:///xxx.com/changpwd" />
+	<test name="the correct values" expectContansString='iStatus":1' preExcution="loginByApp">
+		<parameter name="iUserID" value="testuser" />
+		<parameter name="sOldPassword" value="da877e4c1f08c3a41ab263924aa6b73c" />
+		<parameter name="sNewPassword" value="84539b7e8ace7ee69c38b09b2f7dd9ea" />
+	</test>
+	<test name="the correct values" expectContansString='iStatus":1' preExcution="loginByApp">
+		<parameter name="iUserID" value="testuser" />
+		<parameter name="sOldPassword" value="84539b7e8ace7ee69c38b09b2f7dd9ea" />
+		<parameter name="sNewPassword" value="da877e4c1f08c3a41ab263924aa6b73c" />
+	</test>
+</case>
+                                    

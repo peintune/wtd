@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<case description="add black list in affiliate" type="post">
+	<!--<此公共接口的功能是为其他接口case调用的，会在调用的接口case之前执行此接口。只要放在public文件中就是一个公共的接口，不作为case使用>-->
+	<testApi api="http://xxx.test.com/user/user/login.html" />
+	<setGlobalVarible name="sToken" value="$Response.sToken" />
+	<!--<可以设置一个全局变量存储当前登录api返回的response中的token信息，引用此登录接口的接口case可以拿到这个token后，可以不需要额外的登录步骤就可以测试需要登录后才能测试的接口>-->
+	<test name="the correct values" expectContansString='msg":"ok'>
+		<parameter name="sMobile" value="18100000001" />
+		<parameter name="sPassword" value="da877e4c1f08c3a41ab263924aa6b73c" />
+	</test>
+</case>

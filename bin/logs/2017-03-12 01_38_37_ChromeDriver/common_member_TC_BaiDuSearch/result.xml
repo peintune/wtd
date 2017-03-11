@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestResult><TestCase name="TC_BaiDuSearch" caseModule="member" caseType="common" description="测试百度搜索功能" result="pass" errorInfo="Default message" logUrl="\\10.0.75.1\GLASH\2017-03-12 01_38_37_ChromeDriver\common_member_TC_BaiDuSearch" webBrowser="ChromeDriver"><TestPoint name="GoToHome" caseType="common" result="pass" description="回到首页" errorInfo="NULL"/><TestPoint name="测试搜索" caseType="common" result="pass" description="测试搜索功能" errorInfo="NULL"/></TestCase></TestResult>
