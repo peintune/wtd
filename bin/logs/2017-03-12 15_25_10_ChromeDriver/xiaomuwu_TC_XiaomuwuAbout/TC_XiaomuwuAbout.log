@@ -1,0 +1,15 @@
+4409 [main] INFO root - 【Test 1】          http://snappydata.top/?page_id=67
+4410 [main] INFO root - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	  ...
+4410 [main] INFO root - 【expect words】     关于小木屋
+4410 [main] INFO root - 【Result 1】       pass
+4410 [main] INFO root - ............
+4415 [main] INFO root - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~xiaomuwu~interface 】####################
+4416 [main] INFO root - #################### Test Result is : 【 pass 】####################
+4416 [main] INFO root - ################## The Test Description is : 【 测试百跳转到小木屋登录功能 】####################
+4429 [main] INFO root - ######################################  WTD Finished ######################################
+4429 [main] INFO root - ###########################################################################################
+4429 [main] INFO root - ###########################################################################################
+4429 [main] INFO root - ###########################################################################################

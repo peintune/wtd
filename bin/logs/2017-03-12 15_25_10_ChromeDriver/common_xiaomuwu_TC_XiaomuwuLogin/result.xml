@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestResult><TestCase name="TC_XiaomuwuLogin" caseModule="xiaomuwu" caseType="common" description="测试百跳转到小木屋登录功能" result="pass" errorInfo="Default message" logUrl="\\10.0.75.1\GLASH\2017-03-12 15_25_10_ChromeDriver\common_xiaomuwu_TC_XiaomuwuLogin" webBrowser="ChromeDriver"><TestPoint name="测试搜索" caseType="common" result="pass" description="测试搜索功能" errorInfo="NULL"/></TestCase></TestResult>

@@ -1,0 +1,15 @@
+2275 [main] INFO root - 【Test 1】          http://snappydata.top/?page_id=67
+2275 [main] INFO root - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	  ...
+2277 [main] INFO root - 【expect words】     关于小木屋
+2278 [main] INFO root - 【Result 1】       fail
+2278 [main] INFO root - ............
+2287 [main] INFO root - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~xiaomuwu~interface 】####################
+2289 [main] INFO root - #################### Test Result is : 【 fail 】####################
+2290 [main] INFO root - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2355 [main] INFO root - ######################################  WTD Finished ######################################
+2355 [main] INFO root - ###########################################################################################
+2358 [main] INFO root - ###########################################################################################
+2358 [main] INFO root - ###########################################################################################

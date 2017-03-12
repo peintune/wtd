@@ -48,3 +48,166 @@
 2017-03-12 01:39:39,306 INFO [root] - ###########################################################################################
 2017-03-12 01:39:39,306 INFO [root] - ###########################################################################################
 2017-03-12 01:39:39,306 INFO [root] - ###########################################################################################
+2017-03-12 15:25:11,847 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:25:11,848 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2017-03-12 15:25:11,848 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: „Äê TC_BaiDuSearch~member~common „Äë####################
+2017-03-12 15:25:15,069 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point „Äê GoToHome „Äë  : (ÂõûÂà∞È¶ñÈ°µ)  is „Äê pass „Äë 
+2017-03-12 15:25:15,077 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:25:15,370 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_25_10_ChromeDriver\common_member_TC_BaiDuSearch\2017-03-12 15_25_15_369.jpg ~~~~~~~~~~~~
+2017-03-12 15:25:15,399 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:25:17,818 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point „Äê ÊµãËØïÊêúÁ¥¢ „Äë  : (ÊµãËØïÊêúÁ¥¢ÂäüËÉΩ)  is „Äê pass „Äë 
+2017-03-12 15:25:17,824 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:25:18,096 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_25_10_ChromeDriver\common_member_TC_BaiDuSearch\2017-03-12 15_25_18_96.jpg ~~~~~~~~~~~~
+2017-03-12 15:25:18,109 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:25:18,113 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: „Äê TC_BaiDuSearch~member~common „Äë####################
+2017-03-12 15:25:18,114 INFO [TC_BaiDuSearch.class] - #################### Test Result is : „Äê pass „Äë####################
+2017-03-12 15:25:18,114 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : „Äê ÊµãËØïÁôæÂ∫¶ÊêúÁ¥¢ÂäüËÉΩ „Äë####################
+2017-03-12 15:25:18,114 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2017-03-12 15:25:18,114 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:25:18,114 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:25:18,114 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:25:18,114 INFO [TC_XiaomuwuLogin.class] - ###########################################################################################
+2017-03-12 15:25:18,114 INFO [TC_XiaomuwuLogin.class] - ###################################### WTD Start ##########################################
+2017-03-12 15:25:18,114 INFO [TC_XiaomuwuLogin.class] - ################## Start to Execute Case: „Äê TC_XiaomuwuLogin~xiaomuwu~common „Äë####################
+2017-03-12 15:25:35,458 INFO [TC_XiaomuwuLogin.class] - ~~~~~~ Test Point „Äê ÊµãËØïÊêúÁ¥¢ „Äë  : (ÊµãËØïÊêúÁ¥¢ÂäüËÉΩ)  is „Äê pass „Äë 
+2017-03-12 15:25:35,461 INFO [TC_XiaomuwuLogin.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:25:35,615 INFO [TC_XiaomuwuLogin.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_25_10_ChromeDriver\common_xiaomuwu_TC_XiaomuwuLogin\2017-03-12 15_25_35_615.jpg ~~~~~~~~~~~~
+2017-03-12 15:25:35,638 INFO [TC_XiaomuwuLogin.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:25:35,643 INFO [TC_XiaomuwuLogin.class] - ################## Finish to Execute Case: „Äê TC_XiaomuwuLogin~xiaomuwu~common „Äë####################
+2017-03-12 15:25:35,656 INFO [TC_XiaomuwuLogin.class] - #################### Test Result is : „Äê pass „Äë####################
+2017-03-12 15:25:35,656 INFO [TC_XiaomuwuLogin.class] - ################## The Test Description is : „Äê ÊµãËØïÁôæË∑≥ËΩ¨Âà∞Â∞èÊú®Â±ãÁôªÂΩïÂäüËÉΩ „Äë####################
+2017-03-12 15:25:35,657 INFO [TC_XiaomuwuLogin.class] - ######################################  WTD Finished ######################################
+2017-03-12 15:25:35,657 INFO [TC_XiaomuwuLogin.class] - ###########################################################################################
+2017-03-12 15:25:35,657 INFO [TC_XiaomuwuLogin.class] - ###########################################################################################
+2017-03-12 15:25:35,657 INFO [TC_XiaomuwuLogin.class] - ###########################################################################################
+2017-03-12 15:25:35,657 INFO [root] - ###########################################################################################
+2017-03-12 15:25:35,657 INFO [root] - ###################################### WTD Start ##########################################
+2017-03-12 15:25:35,657 INFO [root] - ################## Start to Execute Case: „Äê TC_XiaomuwuAbout~xiaomuwu~interface „Äë####################
+2017-03-12 15:25:40,083 INFO [root] - „ÄêTest 1„Äë          http://snappydata.top/?page_id=67
+2017-03-12 15:25:40,084 INFO [root] - „ÄêResponse 1„Äë     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	  ...
+2017-03-12 15:25:40,084 INFO [root] - „Äêexpect words„Äë     ÂÖ≥‰∫éÂ∞èÊú®Â±ã
+2017-03-12 15:25:40,084 INFO [root] - „ÄêResult 1„Äë       pass
+2017-03-12 15:25:40,084 INFO [root] - ............
+2017-03-12 15:25:40,089 INFO [root] - ################## Finish to Execute Case: „Äê TC_XiaomuwuAbout~xiaomuwu~interface „Äë####################
+2017-03-12 15:25:40,090 INFO [root] - #################### Test Result is : „Äê pass „Äë####################
+2017-03-12 15:25:40,090 INFO [root] - ################## The Test Description is : „Äê ÊµãËØïÁôæË∑≥ËΩ¨Âà∞Â∞èÊú®Â±ãÁôªÂΩïÂäüËÉΩ „Äë####################
+2017-03-12 15:25:40,103 INFO [root] - ######################################  WTD Finished ######################################
+2017-03-12 15:25:40,103 INFO [root] - ###########################################################################################
+2017-03-12 15:25:40,103 INFO [root] - ###########################################################################################
+2017-03-12 15:25:40,103 INFO [root] - ###########################################################################################
+2017-03-12 15:29:37,636 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:29:37,636 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2017-03-12 15:29:37,636 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~member~common °ø####################
+2017-03-12 15:29:40,289 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ pass °ø 
+2017-03-12 15:29:40,296 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:29:40,531 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_29_36_ChromeDriver\common_member_TC_BaiDuSearch\2017-03-12 15_29_40_530.jpg ~~~~~~~~~~~~
+2017-03-12 15:29:40,546 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:29:42,605 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2017-03-12 15:29:42,608 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:29:42,832 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_29_36_ChromeDriver\common_member_TC_BaiDuSearch\2017-03-12 15_29_42_832.jpg ~~~~~~~~~~~~
+2017-03-12 15:29:42,848 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:29:42,854 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~member~common °ø####################
+2017-03-12 15:29:42,854 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ pass °ø####################
+2017-03-12 15:29:42,855 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2017-03-12 15:29:42,856 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2017-03-12 15:29:42,857 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:29:42,858 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:29:42,858 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:29:42,859 INFO [TC_XiaomuwuLogin.class] - ###########################################################################################
+2017-03-12 15:29:42,860 INFO [TC_XiaomuwuLogin.class] - ###################################### WTD Start ##########################################
+2017-03-12 15:29:42,860 INFO [TC_XiaomuwuLogin.class] - ################## Start to Execute Case: °æ TC_XiaomuwuLogin~xiaomuwu~common °ø####################
+2017-03-12 15:30:09,949 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:30:09,950 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2017-03-12 15:30:09,950 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~member~common °ø####################
+2017-03-12 15:30:12,217 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ pass °ø 
+2017-03-12 15:30:12,222 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:30:12,462 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_30_08_ChromeDriver\common_member_TC_BaiDuSearch\2017-03-12 15_30_12_462.jpg ~~~~~~~~~~~~
+2017-03-12 15:30:12,477 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:30:14,518 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2017-03-12 15:30:14,521 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:30:14,691 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_30_08_ChromeDriver\common_member_TC_BaiDuSearch\2017-03-12 15_30_14_691.jpg ~~~~~~~~~~~~
+2017-03-12 15:30:14,697 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:30:14,702 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~member~common °ø####################
+2017-03-12 15:30:14,702 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ pass °ø####################
+2017-03-12 15:30:14,702 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2017-03-12 15:30:14,702 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2017-03-12 15:30:14,702 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:30:14,703 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:30:14,704 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2017-03-12 15:30:14,704 INFO [TC_XiaomuwuLogin.class] - ###########################################################################################
+2017-03-12 15:30:14,705 INFO [TC_XiaomuwuLogin.class] - ###################################### WTD Start ##########################################
+2017-03-12 15:30:14,706 INFO [TC_XiaomuwuLogin.class] - ################## Start to Execute Case: °æ TC_XiaomuwuLogin~xiaomuwu~common °ø####################
+2017-03-12 15:30:37,685 ERROR [TC_XiaomuwuLogin.class] - ~~~~~~~~~~~~~~ find Element:Œﬁ–ß”√ªß√˚ is failed ~~~~~~~~~~~~
+2017-03-12 15:30:37,686 INFO [TC_XiaomuwuLogin.class] - Exception
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'GLASH', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\dell\AppData\Local\Temp\scoped_dir13592_18904}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 364f99347a10180a950c9b85f0d08de2
+*** Element info: {Using=xpath, value=//*[contains(.,'Œﬁ–ß”√ªß√˚')]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:388)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:504)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:351)
+	at com.pub.wtd.common.BaseAction.isTextExist(BaseAction.java:183)
+	at xiaomuwu.TC_XiaomuwuLogin.testLogin(TC_XiaomuwuLogin.java:61)
+	at xiaomuwu.TC_XiaomuwuLogin.execute(TC_XiaomuwuLogin.java:44)
+	at com.pub.wtd.common.Engine.runCommonCases(Engine.java:400)
+	at com.pub.wtd.common.Engine.<init>(Engine.java:159)
+	at com.pub.wtd.common.Engine.<init>(Engine.java:63)
+	at com.pub.wtd.common.Main.runCase(Main.java:51)
+	at com.pub.wtd.common.Main.main(Main.java:34)
+2017-03-12 15:30:37,693 INFO [TC_XiaomuwuLogin.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ fail °ø  {∞Ÿ∂»À—À˜≤‚ ‘ ß∞‹}
+2017-03-12 15:30:37,696 INFO [TC_XiaomuwuLogin.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:30:37,701 INFO [TC_XiaomuwuLogin.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:30:37,705 INFO [TC_XiaomuwuLogin.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2017-03-12 15:30:37,711 INFO [TC_XiaomuwuLogin.class] - ########### [ Error ]: Run Case Faild ,Exception Ocurrs !!!!!!###########
+2017-03-12 15:30:37,711 INFO [TC_XiaomuwuLogin.class] - Exception
+java.lang.Exception: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'GLASH', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9), userDataDir=C:\Users\dell\AppData\Local\Temp\scoped_dir13592_18904}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 364f99347a10180a950c9b85f0d08de2
+	at com.pub.wtd.common.Engine.runCommonCases(Engine.java:435)
+	at com.pub.wtd.common.Engine.<init>(Engine.java:159)
+	at com.pub.wtd.common.Engine.<init>(Engine.java:63)
+	at com.pub.wtd.common.Main.runCase(Main.java:51)
+	at com.pub.wtd.common.Main.main(Main.java:34)
+2017-03-12 15:30:37,712 INFO [root] - ###########################################################################################
+2017-03-12 15:30:37,713 INFO [root] - ###################################### WTD Start ##########################################
+2017-03-12 15:30:37,715 INFO [root] - ################## Start to Execute Case: °æ TC_XiaomuwuAbout~xiaomuwu~interface °ø####################
+2017-03-12 15:30:39,994 INFO [root] - °æTest 1°ø          http://snappydata.top/?page_id=67
+2017-03-12 15:30:39,994 INFO [root] - °æResponse 1°ø     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	  ...
+2017-03-12 15:30:39,996 INFO [root] - °æexpect words°ø     πÿ”⁄–°ƒæŒ›
+2017-03-12 15:30:39,997 INFO [root] - °æResult 1°ø       fail
+2017-03-12 15:30:39,997 INFO [root] - ............
+2017-03-12 15:30:40,006 INFO [root] - ################## Finish to Execute Case: °æ TC_XiaomuwuAbout~xiaomuwu~interface °ø####################
+2017-03-12 15:30:40,008 INFO [root] - #################### Test Result is : °æ fail °ø####################
+2017-03-12 15:30:40,009 INFO [root] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2017-03-12 15:30:40,074 INFO [root] - ######################################  WTD Finished ######################################
+2017-03-12 15:30:40,074 INFO [root] - ###########################################################################################
+2017-03-12 15:30:40,077 INFO [root] - ###########################################################################################
+2017-03-12 15:30:40,077 INFO [root] - ###########################################################################################

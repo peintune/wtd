@@ -1,0 +1,15 @@
+1895 [main] INFO TC_BaiDuSearch.class - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 pass 】 
+1900 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2140 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_30_08_ChromeDriver\common_member_TC_BaiDuSearch\2017-03-12 15_30_12_462.jpg ~~~~~~~~~~~~
+2155 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+4196 [main] INFO TC_BaiDuSearch.class - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+4199 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+4369 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_30_08_ChromeDriver\common_member_TC_BaiDuSearch\2017-03-12 15_30_14_691.jpg ~~~~~~~~~~~~
+4375 [main] INFO TC_BaiDuSearch.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+4380 [main] INFO TC_BaiDuSearch.class - ################## Finish to Execute Case: 【 TC_BaiDuSearch~member~common 】####################
+4380 [main] INFO TC_BaiDuSearch.class - #################### Test Result is : 【 pass 】####################
+4380 [main] INFO TC_BaiDuSearch.class - ################## The Test Description is : 【 测试百度搜索功能 】####################
+4380 [main] INFO TC_BaiDuSearch.class - ######################################  WTD Finished ######################################
+4380 [main] INFO TC_BaiDuSearch.class - ###########################################################################################
+4381 [main] INFO TC_BaiDuSearch.class - ###########################################################################################
+4382 [main] INFO TC_BaiDuSearch.class - ###########################################################################################

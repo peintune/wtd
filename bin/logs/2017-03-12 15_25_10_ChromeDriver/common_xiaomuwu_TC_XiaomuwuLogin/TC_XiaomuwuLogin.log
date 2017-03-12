@@ -1,0 +1,11 @@
+17283 [main] INFO TC_XiaomuwuLogin.class - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+17286 [main] INFO TC_XiaomuwuLogin.class - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+17440 [main] INFO TC_XiaomuwuLogin.class - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2017-03-12 15_25_10_ChromeDriver\common_xiaomuwu_TC_XiaomuwuLogin\2017-03-12 15_25_35_615.jpg ~~~~~~~~~~~~
+17463 [main] INFO TC_XiaomuwuLogin.class - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+17468 [main] INFO TC_XiaomuwuLogin.class - ################## Finish to Execute Case: 【 TC_XiaomuwuLogin~xiaomuwu~common 】####################
+17481 [main] INFO TC_XiaomuwuLogin.class - #################### Test Result is : 【 pass 】####################
+17481 [main] INFO TC_XiaomuwuLogin.class - ################## The Test Description is : 【 测试百跳转到小木屋登录功能 】####################
+17482 [main] INFO TC_XiaomuwuLogin.class - ######################################  WTD Finished ######################################
+17482 [main] INFO TC_XiaomuwuLogin.class - ###########################################################################################
+17482 [main] INFO TC_XiaomuwuLogin.class - ###########################################################################################
+17482 [main] INFO TC_XiaomuwuLogin.class - ###########################################################################################
