@@ -2,7 +2,10 @@
 		
 作者 何坤<158109016@qq.com>	V2.0	2017/3/12  http://snappydata.top
 
-####目录
+##### 框架目录结构
+![Alt text](./bin/doc/wtd.png)
+
+####文档目录
 - Case需存放的目录：	
 - Case的形式：	
 - Case的命名规范：
