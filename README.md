@@ -108,7 +108,7 @@
 2.	在conig/caselist.cfg.xml中添加要测试的case。
 3.	双击运行wtd.bat或者通过任意windows shell环境运行wtd.bat(推荐)。
 
-##### 一个interface Case实例：
+##### 一个接口 Case实例：
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <case description="change the userlogin passwd" type="post">
@@ -127,7 +127,7 @@
 	</test>	
 </case>                  
 ```
-##### 一个Common Case实例：
+##### 一个UI自动化 Case实例：
 
 ```java
 public class TC_BaiDuSearch extends BaseCase {
