@@ -2,10 +2,22 @@
 		
 作者 何坤<158109016@qq.com>	V2.0	2017/3/12  http://snappydata.top
 
-##### 框架目录结构
+##### 1. WTD 测试框架免费下载：[wtd](https://github.com/peintune/wtd)
+
+##### 2. 框架目录结构
 ![Alt text](./bin/doc/wtd.png)
 
-####文档目录
+##### 3. 程序运行界面
+![Alt text](./bin/doc/run2.png)
+![Alt text](./bin/doc/debugrun.png)
+
+##### 4.生成的log文件及截图
+![Alt text](./bin/doc/log.png)
+
+##### 5.自动生成的邮件报告
+![Alt text](./bin/doc/report.png)
+
+##### 6. 文档目录
 - Case需存放的目录：	
 - Case的形式：	
 - Case的命名规范：
@@ -15,18 +27,18 @@
 - 如何部署环境：
 - 一个Case实例：	
 
-##### Case需存放的目录：
--	在WTD项目中，将新功能性case新建在wtdwebuicases包中，并且此包要确定是一个sources root目录，默认导入的框架中的此目录已经是sources root目录。
+##### 7. Case需存放的目录：
+- 在WTD项目中，将新功能性case新建在wtdwebuicases包中，并且此包要确定是一个sources root目录，默认导入的框架中的此目录已经是sources root目录。
 - 将接口性case放入wtdapicases目录中。
 
-##### Case的形式：
+##### 8. Case的形式：
 - 功能性Case的实体是一个java文件。
--	接口性Case的实体是一个xml文件。
+- 接口性Case的实体是一个xml文件。
 
-##### Case的命名规范：
+##### 9. Case的命名规范：
 - Case开头已Tc_开头，如：Tc_LogIn。Tc是TestCase的缩写。
 
-##### Case的具体实现步骤：
+##### 10. Case的具体实现步骤：
 -	ui 自动化 Case:
 1.	在wtdwebuicases包中建立子package比如member,然后建立对应的case比如TC_BaiDuSearch.java。
 2.	新建case类必须继承BaseCase类：public class TC_BaiDuSearch extends BaseCase{}
@@ -55,7 +67,7 @@
   ```
 
 
-##### UI 自动化测试case可使用的变量及方法：
+##### 11. UI 自动化测试case可使用的变量及方法：
 -	SessionData 类：
 
 | 变量名      | 描述         |
@@ -96,19 +108,19 @@
 
 >	更多方法可以参考com.pub.wtd.common.BaseCase 类和webdiver对象中的方法。或者登陆 [小木屋](http://snappydata.top)
 
-##### 如何调试运行case：
+##### 12. 如何调试运行case：
 1.	调试运行case：
 2.	在Intellij IDEA 中打开整个WTD项目。
 3.	编写接口测试case和ui 自动化测试case，具体可以参考项目中的demo。
 4.	更改config/conf/wtd.cfg.xml中测试的hostname，测试浏览器，测试人员邮箱的信息。
 5.	在conig/caselist.cfg.xml中添加要调试运行的case。
 6.	运行或者调试运行runcasestest 包中的RunCaseTest类。 
-##### 如何部署环境：
+##### 13. 如何部署环境：
 1.	更改config/conf/wtd.cfg.xml中测试的hostname，测试浏览器，测试人员邮箱的信息。
 2.	在conig/caselist.cfg.xml中添加要测试的case。
 3.	双击运行wtd.bat或者通过任意windows shell环境运行wtd.bat(推荐)。
 
-##### 一个接口 Case实例：
+##### 14. 一个接口 Case实例：
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <case description="change the userlogin passwd" type="post">
@@ -127,7 +139,7 @@
 	</test>	
 </case>                  
 ```
-##### 一个UI自动化 Case实例：
+##### 15. 一个UI自动化 Case实例：
 
 ```java
 public class TC_BaiDuSearch extends BaseCase {
