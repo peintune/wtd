@@ -54,7 +54,7 @@
 ##### UI 自动化测试case可使用的变量及方法：
 -	SessionData 类：
 | 变量名      | 描述         |
-| ------------- |:-------------:|
+| ------------- |-------------|
 |webDriver	|Webdriver 的一个实例，用于case进行页面各种操作的一个对象，可以直接在case中调用如，webDriver.get();|
 |hostName	|当前测试的主要的host name, 可以直接在case中调用|
 |caseName	|当前测试的case 名字, 可以直接在case中调用|
@@ -102,6 +102,7 @@
 1.	更改config/conf/wtd.cfg.xml中测试的hostname，测试浏览器，测试人员邮箱的信息。
 2.	在conig/caselist.cfg.xml中添加要测试的case。
 3.	双击运行wtd.bat或者通过任意windows shell环境运行wtd.bat(推荐)。
+
 ##### 一个interface Case实例：
 ```
 <?xml version="1.0" encoding="utf-8" ?>
