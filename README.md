@@ -33,14 +33,12 @@
 1.	在wtdapicases中新建TC_XiaomuwuAbout.xml文件，支持post,get,jsonrpc类型。
 2.	写上接口case的测试地址。
 3.	有需要可以设置全局变量为以后的case用。如：
-
- ```
+ ```xml
 <setGlobalVarible name="guid" value="$Cookie.guid"/>
  或者<setGlobalVarible name="sToken" value="$Response.sToken" />
  ```
-
 4.	设置测试点（可以多个），其中包括期望返回值（可正则表达式），执行测试点之前可执行其他公共接口。改测试点的各个参数。如：
-	```
+	```xml
 	<test name="the correct values"  expectContansString='iStatus":1' preExcution="loginByApp">
 	<parameter name="userId" value="1800012315" />
 	</test>
@@ -49,8 +47,7 @@
 	</test>
     ```
 5.  接口Case可以自定义全局变量，也可以用系统的中变量。系统中的变量包括:
-
-  ```
+  ```python
   $Cookie,$Response,$PreResponse
   ```
 
@@ -109,7 +106,7 @@
 3.	双击运行wtd.bat或者通过任意windows shell环境运行wtd.bat(推荐)。
 
 ##### 一个interface Case实例：
-```
+```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <case description="change the userlogin passwd" type="post">
     <testApi api="http://xxx.xxx.qa.ipo.com/api/internal/user/changepwd.html" />
@@ -129,7 +126,7 @@
 ```
 ##### 一个Common Case实例：
 
-```
+```java
 public class TC_BaiDuSearch extends BaseCase {
    /**
     * 每一个ui自动化case都必须实现execute（）方法，此方法是此case的入口。
