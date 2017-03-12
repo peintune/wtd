@@ -19,8 +19,10 @@
 ##### Case的形式：
 - 功能性Case的实体是一个java文件。
 -	接口性Case的实体是一个xml文件。
+
 ##### Case的命名规范：
 - Case开头已Tc_开头，如：Tc_LogIn。Tc是TestCase的缩写。
+
 ##### Case的具体实现步骤：
 -	ui 自动化 Case:
 1.	在wtdwebuicases包中建立子package比如member,然后建立对应的case比如TC_BaiDuSearch.java。
@@ -31,6 +33,7 @@
 1.	在wtdapicases中新建TC_XiaomuwuAbout.xml文件，支持post,get,jsonrpc类型。
 2.	写上接口case的测试地址。
 3.	有需要可以设置全局变量为以后的case用。如：
+
  ```
 <setGlobalVarible name="guid" value="$Cookie.guid"/>
  或者<setGlobalVarible name="sToken" value="$Response.sToken" />
@@ -46,6 +49,7 @@
 	</test>
     ```
 5.  接口Case可以自定义全局变量，也可以用系统的中变量。系统中的变量包括:
+
   ```
   $Cookie,$Response,$PreResponse
   ```
@@ -53,6 +57,7 @@
 
 ##### UI 自动化测试case可使用的变量及方法：
 -	SessionData 类：
+
 | 变量名      | 描述         |
 | ------------- |-------------|
 |webDriver	|Webdriver 的一个实例，用于case进行页面各种操作的一个对象，可以直接在case中调用如，webDriver.get();|
@@ -123,6 +128,7 @@
 </case>                  
 ```
 ##### 一个Common Case实例：
+
 ```
 public class TC_BaiDuSearch extends BaseCase {
    /**
