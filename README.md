@@ -33,12 +33,12 @@
 1.	在wtdapicases中新建TC_XiaomuwuAbout.xml文件，支持post,get,jsonrpc类型。
 2.	写上接口case的测试地址。
 3.	有需要可以设置全局变量为以后的case用。如：
- ```java
+ ```
 <setGlobalVarible name="guid" value="$Cookie.guid"/>
  或者<setGlobalVarible name="sToken" value="$Response.sToken" />
  ```
 4.	设置测试点（可以多个），其中包括期望返回值（可正则表达式），执行测试点之前可执行其他公共接口。改测试点的各个参数。如：
-	```java
+	```
 	<test name="the correct values"  expectContansString='iStatus":1' preExcution="loginByApp">
 	<parameter name="userId" value="1800012315" />
 	</test>
@@ -47,7 +47,7 @@
 	</test>
     ```
 5.  接口Case可以自定义全局变量，也可以用系统的中变量。系统中的变量包括:
-  ```python
+  ```
   $Cookie,$Response,$PreResponse
   ```
 
