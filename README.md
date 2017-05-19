@@ -1,6 +1,6 @@
 ###WTD Case 开发手册
 		
-作者 何坤<158109016@qq.com>	V2.0	2017/3/12  http://snappydata.top
+作者 何坤<158109016@qq.com>	V2.0	2017/3/12  http://www.snappydata.top
 
 ##### 1. WTD 测试框架免费下载：[wtd](https://github.com/peintune/wtd)
 
