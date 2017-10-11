@@ -2,6 +2,8 @@
 		
 作者 何坤<158109016@qq.com>	V2.0	2017/3/12  http://www.snappydata.top
 
+精品电影网：http://www.jpmovie.cn
+
 ##### 1. WTD 测试框架免费下载：[wtd](https://github.com/peintune/wtd)
 
 ##### 2. 框架目录结构
@@ -198,4 +200,4 @@ public class TC_BaiDuSearch extends BaseCase {
    }
 }
 ```
-
+精品电影网：http://www.jpmovie.cn
