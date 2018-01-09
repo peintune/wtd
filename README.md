@@ -1,16 +1,40 @@
-###WTD Case 开发手册
+## WTD Case 开发手册
 		
-作者 何坤<158109016@qq.com>	V2.0	2017/3/12  http://www.snappydata.top
+作者 何坤<3163172384@qq.com>	V2.0	2017/3/12 个人博客：http://blog.jpmovie.cn
 
-精品电影网：http://www.jpmovie.cn
+#####  WTD 测试框架免费下载：[wtd](https://github.com/peintune/wtd)
 
-##### 1. WTD 测试框架免费下载：[wtd](https://github.com/peintune/wtd)
+### 介绍
+wtd自动化测试框架支持以下功能：
+- 接口自动化测试，只需简单的一个接口的xml文件即可
+- 网页UI自动化测试，编写一个简单的java文件放在wtd框架中即可执行
+- 测试结果报告保存，测试结果和错误原因及网页截图文件会保存在本地
+- 测试结果汇总并自动以邮件形式发送给相关测试人员
+- 定时自动执行选定的测试case
+
+wtd是基于selenium开发的，框架提供了很多通用的方法和接口，当然，开发的网页自动化case也可以直接使用webdriver的所有方法。接口测试case非常简单，只需要新建一个xml文件，里面替换掉接口地址，参数，期望返回结果等就可以了。对于需要登录的接口case也是支持的。
+
+### 快速开始
+##### 1. 环境准备并运行demo
+- 下载wtd测试框架: git clone https://github.com/peintune/wtd.git 或者直接download
+- 本地安装好JDK
+- 本地安装[IDEA](https://www.jetbrains.com/idea/)开发环境。
+- 打开IDEA，导入wtd整个项目
+- 在IDEA开发环境中，直接运行 RunCaseTest类
+以上，所有开发环境准备完成，可以开始写case了。
 
 ##### 2. 框架目录结构
+- 所有的接口测试case都在wtdapicases/interfaces目录下，你可以根据需要自己在这个目录下建模块，比如member.注意public目录不存放case,但是可以保持公共接口。比如有50个接口case都需要依赖登录接口后才能测试，那么可以写一个登录接口放到public目录下，然后在50个case里面都调一下这个登录的接口。
+- 所有的网页自动化case都在wtdwebuicases目录下。你可以根据需要自己在这个目录下建模块，比如member。这些case都是java文件。在部署到正式测试环境时不需要打包成jar或者编译成.class文件，只需要将源java文件放到对应正式测试环境，wtd会自动在执行的时候编译这个case的java文件的。
+- wtd的配置文件是wtd.cfg.xml,里面可以配置UI自动化要启动的浏览器类型，比如chrome,firefox,safari。还有相关测试人员的邮件地址。
+- 需要跑的case的列表信息在caselist.cfg.xml中。
+- 在IDEA开发环境中，直接运行 RunCaseTest类即可，在正式测试环境中运行  wtd.bat脚本。
 ![Alt text](./bin/doc/wtd.png)
 
 ##### 3. 程序运行界面
+3.1 正式测试环境程序运行界面
 ![Alt text](./bin/doc/run2.png)
+3.2 IDEA开发环境程序运行界面
 ![Alt text](./bin/doc/debugrun.png)
 
 ##### 4.生成的log文件及截图
