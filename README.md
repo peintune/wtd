@@ -1,6 +1,12 @@
-## WTD Case 开发手册
-		
-作者 何坤<3163172384@qq.com>	V2.0	2017/3/12 个人博客：http://blog.jpmovie.cn
+	
+作者 何坤<3163172384@qq.com>,qq群：524212543 ， 个人博客：http://blog.jpmovie.cn
+
+## 版本更新
+v2.1    2018/01/09 
+- 更新最新chromewebdriver解决比较新的chrome打不开的情况
+
+V2.0	2017/3/12
+-第一个版本
 
 #####  WTD 测试框架免费下载：[wtd](https://github.com/peintune/wtd)
 
