@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CaseList>
 	<testCase name="TC_BaiDuSearch" module="member" type="common" />
-	<testCase name="TC_XiaomuwuLogin" module="xiaomuwu" type="common" />
-	<testCase name="TC_XiaomuwuAbout" module="xiaomuwu" type="interface" />
+	<!--testCase name="TC_XiaomuwuLogin" module="xiaomuwu" type="common" /-->
+	<!--testCase name="TC_XiaomuwuAbout" module="xiaomuwu" type="interface" /-->
 </CaseList>

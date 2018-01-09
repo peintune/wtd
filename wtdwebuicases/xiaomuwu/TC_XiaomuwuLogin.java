@@ -16,6 +16,8 @@ import org.openqa.selenium.WebElement;
  */
 public class TC_XiaomuwuLogin extends BaseCase {
 	/**
+	 * UI 自动化case开发流程：
+	 *
 	 * 每一个ui自动化case都必须实现execute（）方法，此方法是此case的入口。
 	 * 编写case时可以参考以下步骤：
 	 * 1，打开首页或者一个链接或者自己定义的一个页面:webDriver.get(String),new HomePage(sessionData).goToPage(),
@@ -33,11 +35,11 @@ public class TC_XiaomuwuLogin extends BaseCase {
 	 * 6，向诸如文本框之类的控件输入值：sendKeysBy(By,String),sendKeysById(By,String)
 	 * 7，所有webdriver支持的操作。
 	 *
-	 * 更多更新信息请到 snappydata.top
+	 * 更多更新信息请到 blog.jpmovie.cn
 	 */
 	public void execute() {
 
-		webDriver.get("http://snappydata.top");//利用webdriver执行打开页面
+		webDriver.get("http://blog.jpmovie.cn");//利用webdriver执行打开页面
 
 		setDescription("测试百跳转到小木屋登录功能");// 设置case的描述信息
 

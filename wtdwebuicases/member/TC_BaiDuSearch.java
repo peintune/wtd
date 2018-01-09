@@ -19,6 +19,8 @@ import com.pub.wtd.common.BaseCase;
  */
 public class TC_BaiDuSearch extends BaseCase {
 	/**
+	 * UI 自动化case开发流程：
+	 *
 	 * 每一个ui自动化case都必须实现execute（）方法，此方法是此case的入口。
 	 * 编写case时可以参考以下步骤：
 	 * 1，打开首页或者一个链接或者自己定义的一个页面:webDriver.get(String),new HomePage(sessionData).goToPage(),
@@ -36,7 +38,7 @@ public class TC_BaiDuSearch extends BaseCase {
 	 * 6，向诸如文本框之类的控件输入值：sendKeysBy(By,String),sendKeysById(By,String)
 	 * 7，所有webdriver支持的操作。
 	 *
-	 * 更多更新信息请到 snappydata.top
+	 * 更多更新信息请到 blog.jpmovie.cn
 	 */
 	public void execute() {
 		//new HomePage(sessionData).goToPage();// 自定义一个页面，所有case都可以共享这个页面,直接在case中打开这个页面。
@@ -61,9 +63,9 @@ public class TC_BaiDuSearch extends BaseCase {
 
 
 	public void testSearch(){
-		sendKeysById("kw","snappydata.top");
+		sendKeysById("kw","www.jpmovie.cn");
 		clickById("su");
-		if(isTextExist("snappydata")){
+		if(isTextExist("jpmovie")){
 			setPointResult("测试搜索","测试搜索功能","pass","NULL");
 		}else{
 			setPointResult("测试搜索","测试搜索功能","fail","百度搜索测试失败");
