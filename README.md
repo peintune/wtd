@@ -32,6 +32,7 @@ wtd是基于selenium开发的，框架提供了很多通用的方法和接口，
 ###### 1.2 运行自己开发好的case
 - 开发环境中运行：在IDEA开发环境中，更改caselist.cfg.xml文件，直接运行 RunCaseTest类
 - 正式部署环境中运行，直接复制开发好的接口case(TC_xxx.xml)或者UI自动化case(TC_xxx.java)到正式测试环境中的对应目录中。更改caselist.cfg.xml文件，然后双击wtd.bat脚本启动。
+- 正式部署环境定时循环任务：打开window终端运行  ./wtd.bat 2 5 3600,（2代表开始小时时间为2点，5代表循环执行5次，3600代表每次循环间隔为3600s）
 
 以上，所有开发环境准备完成，可以开始写case了。
 
