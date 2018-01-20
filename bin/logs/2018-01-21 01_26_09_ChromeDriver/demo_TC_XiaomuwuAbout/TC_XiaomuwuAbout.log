@@ -1,0 +1,15 @@
+2008 [main] INFO root - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2009 [main] INFO root - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2009 [main] INFO root - 【expect words】     关于小木屋
+2009 [main] INFO root - 【Result 1】       pass
+2009 [main] INFO root - ............
+2017 [main] INFO root - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2017 [main] INFO root - #################### Test Result is : 【 pass 】####################
+2018 [main] INFO root - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018 [main] INFO root - ######################################  WTD Finished ######################################
+2018 [main] INFO root - ###########################################################################################
+2019 [main] INFO root - ###########################################################################################
+2019 [main] INFO root - ###########################################################################################

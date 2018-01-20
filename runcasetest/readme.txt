@@ -1,0 +1,5 @@
+关于runcasetest目录：
+
+这个目录是为了测试人员通过IDEA开发case调试case用的。
+
+当用户编写好case后，可以通过执行RunCaseTest.java 就可以在IDEA中运行case.

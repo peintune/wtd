@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<case description="get jpmovie.cn about" type="get">
-	<testApi api="http://blog.jpmovie.cn/?page_id=67" />
-	<test name="the correct values" expectContansString='关于小木屋'/>
-</case>

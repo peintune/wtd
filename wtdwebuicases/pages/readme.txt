@@ -1,0 +1,7 @@
+关于pages包下的所有java文件的作用：
+
+每一个page都是代表一个页面，比如有主页面，主页面并登陆好的页面，主页面和未登录状态。
+
+测试人员可以自己添加页面或者修改pages下的这三个（HomePage,HomePageWithLogIn,HomePageWithOutLogIn）样本页面。
+
+在case中可以在case执行前中调用page页面来让case每次在运行前都能保证环境一致性。

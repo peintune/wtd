@@ -211,3 +211,75 @@ Session ID: 364f99347a10180a950c9b85f0d08de2
 2017-03-12 15:30:40,074 INFO [root] - ###########################################################################################
 2017-03-12 15:30:40,077 INFO [root] - ###########################################################################################
 2017-03-12 15:30:40,077 INFO [root] - ###########################################################################################
+2018-01-21 01:03:03,457 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:03:03,457 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:03:03,457 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:03:05,065 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 pass 】 
+2018-01-21 01:03:05,074 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:03:05,402 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_03_03_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_03_05_402.jpg ~~~~~~~~~~~~
+2018-01-21 01:03:05,414 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:03:07,812 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+2018-01-21 01:03:07,858 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:03:08,130 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_03_03_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_03_08_130.jpg ~~~~~~~~~~~~
+2018-01-21 01:03:08,133 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:03:08,139 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:03:08,139 INFO [TC_BaiDuSearch.class] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:03:08,139 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:03:08,139 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:03:08,139 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:03:08,139 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:03:08,139 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:03:08,140 INFO [root] - ###########################################################################################
+2018-01-21 01:03:08,140 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:03:08,140 INFO [root] - ################## Start to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:03:10,813 INFO [root] - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:03:10,814 INFO [root] - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:03:10,814 INFO [root] - 【expect words】     关于小木屋
+2018-01-21 01:03:10,814 INFO [root] - 【Result 1】       pass
+2018-01-21 01:03:10,814 INFO [root] - ............
+2018-01-21 01:03:10,899 INFO [root] - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:03:10,899 INFO [root] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:03:10,899 INFO [root] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:03:10,900 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:03:10,900 INFO [root] - ###########################################################################################
+2018-01-21 01:03:10,900 INFO [root] - ###########################################################################################
+2018-01-21 01:03:10,900 INFO [root] - ###########################################################################################
+2018-01-21 01:26:09,722 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:26:09,722 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:26:09,722 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:26:11,172 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 GoToHome 】  : (回到首页)  is 【 fail 】  {can not go to home page}
+2018-01-21 01:26:11,181 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:26:11,530 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_26_09_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_26_11_529.jpg ~~~~~~~~~~~~
+2018-01-21 01:26:11,543 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:26:13,892 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point 【 测试搜索 】  : (测试搜索功能)  is 【 pass 】 
+2018-01-21 01:26:13,896 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:26:14,170 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_26_09_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_26_14_170.jpg ~~~~~~~~~~~~
+2018-01-21 01:26:14,175 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:26:14,181 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: 【 TC_BaiDuSearch~demo~common 】####################
+2018-01-21 01:26:14,181 INFO [TC_BaiDuSearch.class] - #################### Test Result is : 【 fail 】####################
+2018-01-21 01:26:14,181 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:26:14,181 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:26:14,181 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:26:14,181 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:26:14,181 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:26:14,181 INFO [root] - ###########################################################################################
+2018-01-21 01:26:14,181 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:26:14,182 INFO [root] - ################## Start to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:26:16,194 INFO [root] - 【Test 1】          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:26:16,195 INFO [root] - 【Response 1】     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:26:16,195 INFO [root] - 【expect words】     关于小木屋
+2018-01-21 01:26:16,195 INFO [root] - 【Result 1】       pass
+2018-01-21 01:26:16,195 INFO [root] - ............
+2018-01-21 01:26:16,203 INFO [root] - ################## Finish to Execute Case: 【 TC_XiaomuwuAbout~demo~interface 】####################
+2018-01-21 01:26:16,203 INFO [root] - #################### Test Result is : 【 pass 】####################
+2018-01-21 01:26:16,204 INFO [root] - ################## The Test Description is : 【 测试百度搜索功能 】####################
+2018-01-21 01:26:16,204 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:26:16,204 INFO [root] - ###########################################################################################
+2018-01-21 01:26:16,205 INFO [root] - ###########################################################################################
+2018-01-21 01:26:16,205 INFO [root] - ###########################################################################################

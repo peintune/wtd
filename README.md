@@ -1,7 +1,10 @@
-	
-作者 何坤<3163172384@qq.com>,qq群：524212543 ， 个人博客：http://blog.jpmovie.cn
+作者 何坤<3163172384@qq.com>, qq群：524212543 ， 个人博客：http://blog.jpmovie.cn
 
 ### 版本更新
+
+v2.2    2018/01/20 
+- 更新说明文件和democase
+
 v2.1    2018/01/09 
 - 更新最新chromewebdriver解决比较新的chrome打不开的情况
 
@@ -26,6 +29,10 @@ wtd是基于selenium开发的，框架提供了很多通用的方法和接口，
 - 本地安装[IDEA](https://www.jetbrains.com/idea/)开发环境。
 - 打开IDEA，导入wtd整个项目
 - 在IDEA开发环境中，直接运行 RunCaseTest类
+###### 1.2 运行自己开发好的case
+- 开发环境中运行：在IDEA开发环境中，更改caselist.cfg.xml文件，直接运行 RunCaseTest类
+- 正式部署环境中运行，直接复制开发好的接口case(TC_xxx.xml)或者UI自动化case(TC_xxx.java)到正式测试环境中的对应目录中。更改caselist.cfg.xml文件，然后双击wtd.bat脚本启动。
+
 以上，所有开发环境准备完成，可以开始写case了。
 
 ##### 2. 框架目录结构

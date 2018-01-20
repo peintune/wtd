@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <wtd-configuration>
-	<host-url>
-		<url name="https://www.baidu.com" />
-	</host-url>
+	<!-- 此项可以不设置，如果设置上，网页自动化case可以通过hostName变量直接获得这个值。-->
+	<!--host-url>
+		<url name="http://api.test.com" />
+	</host-url-->
+
+	<!-- 公司网络如果有代理要在这里设置，不然不能成功收到邮件-->
+	<!--Proxy value ="localhost:8080"/-->
+
+	<!-- 可以同时打开多个浏览器，所有case会在打开的所有浏览器上执行。如果跑case过程中报driver问题或者浏览器插件问题，可以在百度搜索最新的相应的浏览器的driver，然后在bin/tools/ 目录下替换相应的driver-->
 	<Browser>
-		<!-- fireFox location="C:\Program Files\Mozilla Firefox\firefox.exe"/ -->
-		<!--chrome location="\Applications\Google Chrome.app"/ -->
-		<!-- ie location=""/ -->
-<!-- 		<chrome location="\Applications\Google Chrome.app"></chrome>
- -->
+		<!--fireFox location="C:\Program Files\Mozilla Firefox\firefox.exe"/-->
+		<!--<ie location=""/>-->
 		<chrome location=""></chrome>
   		<!--<safari location=""></safari>-->
- 	
  </Browser>
+
+	<!--报告收件人可以设置多个，只需增加 <user email="xxx.xxx"></user>即可 -->
 	<MailReceptor>
-		<user email="158109016@qq.com"></user>
+		<user email="3163172384@qq.com"></user>
 	</MailReceptor>
+	<MailSubject value="自动化测试报告"/>
 </wtd-configuration>

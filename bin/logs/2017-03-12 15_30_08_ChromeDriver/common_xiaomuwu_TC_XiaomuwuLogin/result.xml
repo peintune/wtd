@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestResult><TestCase name="TC_XiaomuwuLogin" caseModule="xiaomuwu" caseType="common" description="" result="" errorInfo=""><TestPoint name="测试搜索" caseType="common" result="fail" description="测试搜索功能" errorInfo="百度搜索测试失败"/></TestCase></TestResult>

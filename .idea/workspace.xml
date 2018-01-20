@@ -2,16 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="280222ee-9fe8-4e62-ac7c-091748f8aabb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doc/debugrun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doc/log.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doc/report.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doc/run2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doc/snappydata.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/doc/WTD Case 开发手册 - Marxico - Markdown Editor for Evernote.pdf" afterPath="$PROJECT_DIR$/bin/doc/WTD Case 开发手册 - Marxico - Markdown Editor for Evernote.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/doc/WTD Case 开发手册.zip" afterPath="$PROJECT_DIR$/bin/doc/WTD Case 开发手册.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runcasetest/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wtdapicases/interfaces/public/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wtdwebuicases/demo/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wtdwebuicases/pages/HomePage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wtdwebuicases/pages/HomePageWithLogIn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wtdwebuicases/pages/HomePageWithOutLogIn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wtdwebuicases/pages/readme.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/lib/commons-codec-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/lib/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/lib/httpclient-4.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/lib/httpcore-4.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/lib/icu4j-2.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/lib/xalan-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/allResult.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/common_member_TC_BaiDuSearch/2017-03-12 15_25_15_369.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/common_member_TC_BaiDuSearch/2017-03-12 15_25_18_96.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/common_member_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/common_member_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/common_xiaomuwu_TC_XiaomuwuLogin/2017-03-12 15_25_35_615.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/common_xiaomuwu_TC_XiaomuwuLogin/TC_XiaomuwuLogin.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/common_xiaomuwu_TC_XiaomuwuLogin/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/xiaomuwu_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_25_10_ChromeDriver/xiaomuwu_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_29_36_ChromeDriver/common_member_TC_BaiDuSearch/2017-03-12 15_29_40_530.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_29_36_ChromeDriver/common_member_TC_BaiDuSearch/2017-03-12 15_29_42_832.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_29_36_ChromeDriver/common_member_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_29_36_ChromeDriver/common_member_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_29_36_ChromeDriver/common_xiaomuwu_TC_XiaomuwuLogin/TC_XiaomuwuLogin.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_29_36_ChromeDriver/common_xiaomuwu_TC_XiaomuwuLogin/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_30_08_ChromeDriver/common_member_TC_BaiDuSearch/2017-03-12 15_30_12_462.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_30_08_ChromeDriver/common_member_TC_BaiDuSearch/2017-03-12 15_30_14_691.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_30_08_ChromeDriver/common_member_TC_BaiDuSearch/TC_BaiDuSearch.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_30_08_ChromeDriver/common_member_TC_BaiDuSearch/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_30_08_ChromeDriver/common_xiaomuwu_TC_XiaomuwuLogin/TC_XiaomuwuLogin.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_30_08_ChromeDriver/common_xiaomuwu_TC_XiaomuwuLogin/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_30_08_ChromeDriver/xiaomuwu_TC_XiaomuwuAbout/TC_XiaomuwuAbout.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/logs/2017-03-12 15_30_08_ChromeDriver/xiaomuwu_TC_XiaomuwuAbout/result.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/resultHtml/b308d7ab-cca0-43ba-b458-eaae8bf849be.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/webuicaseclasses/TC_GoHome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/webuicaseclasses/member/TC_BaiDuSearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/webuicaseclasses/xiaomuwu/TC_XiaomuwuLogin.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/lib/wtd.jar" afterPath="$PROJECT_DIR$/bin/lib/wtd.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/logs/log.log" afterPath="$PROJECT_DIR$/bin/logs/log.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/tools/runningData.txt" afterPath="$PROJECT_DIR$/bin/tools/runningData.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/caselist.cfg.xml" afterPath="$PROJECT_DIR$/config/caselist.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/conf/wtd.cfg.xml" afterPath="$PROJECT_DIR$/config/conf/wtd.cfg.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wtd.iml" afterPath="$PROJECT_DIR$/wtd.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wtdapicases/interfaces/xiaomuwu/TC_XiaomuwuAbout.xml" afterPath="$PROJECT_DIR$/wtdapicases/interfaces/demo/TC_XiaomuwuAbout.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wtdapicases/interfaces/xiaomuwu/TC_changepwd.xml" afterPath="$PROJECT_DIR$/wtdapicases/interfaces/demo/TC_changepwd.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wtdwebuicases/member/TC_BaiDuSearch.java" afterPath="$PROJECT_DIR$/wtdwebuicases/demo/TC_BaiDuSearch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/wtdwebuicases/xiaomuwu/TC_XiaomuwuLogin.java" afterPath="$PROJECT_DIR$/wtdwebuicases/demo/TC_XiaomuwuLogin.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,21 +73,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="RunCaseTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RunCaseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runcasetest/src/RunCaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="license.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bin/license/license.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="250">
+              <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -50,18 +86,18 @@
       <file leaf-file-name="wtd.cfg.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/conf/wtd.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="256">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="caselist.cfg.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/caselist.cfg.xml">
+      <file leaf-file-name="Mail.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/bin/lib/wtd.jar!/com/pub/wtd/util/Mail.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="-1875">
+              <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -70,11 +106,9 @@
       <file leaf-file-name="Environment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runcasetest/src/com/pub/wtd/runcase/util/Environment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="350">
               <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -82,7 +116,7 @@
       <file leaf-file-name="By.class" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/bin/lib/selenium-server-standalone-2.53.0.jar!/org/openqa/selenium/By.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
+            <state relative-caret-position="1475">
               <caret line="74" column="17" lean-forward="false" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
               <folding />
             </state>
@@ -115,7 +149,6 @@
         <option value="$PROJECT_DIR$/runcasetest/src/com/pub/wtd/runcase/util/Util.java" />
         <option value="$PROJECT_DIR$/runcasetest/src/com/pub/wtd/runcase/util/Environment.java" />
         <option value="$PROJECT_DIR$/runcasetest/src/RunCaseTest.java" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -126,10 +159,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1932" />
-    <option name="height" value="1092" />
+    <option name="x" value="288" />
+    <option name="width" value="1924" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -146,7 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -169,29 +200,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wtdwebuicases" />
+              <option name="myItemId" value="wtdapicases" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="xiaomuwu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wtd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wtd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wtdwebuicases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="member" />
+              <option name="myItemId" value="interfaces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -237,7 +250,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bin" />
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,16 +264,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bin" />
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="doc" />
+              <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -279,7 +293,8 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\projects\ideaworkspace\wtd\bin\doc" />
+      <recent name="F:\work\projects\ideaworkspace\wtd\bin\lib" />
+      <recent name="F:\work\projects\ideaworkspace\wtd\config\conf" />
       <recent name="F:\work\projects\ideaworkspace\wtdtest\bin\lib" />
       <recent name="F:\work\projects\ideaworkspace\wtdtest" />
     </key>
@@ -817,16 +832,16 @@
       <updated>1489025692079</updated>
       <workItem from="1489025693514" duration="9597000" />
       <workItem from="1489066144635" duration="1677000" />
-      <workItem from="1489253895685" duration="153000" />
-      <workItem from="1489301401201" duration="1739000" />
+      <workItem from="1516466630756" duration="4000" />
+      <workItem from="1516467764052" duration="955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13166000" />
+    <option name="totallyTimeSpent" value="12233000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="-12" width="1932" height="1092" extended-state="0" />
+    <frame x="288" y="0" width="1924" height="1084" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -838,13 +853,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23173277" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32210526" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1693376" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17167382" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -879,14 +894,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/runcasetest/src/RunCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/license/license.txt">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -895,17 +902,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runcasetest/src/com/pub/wtd/runcase/util/Environment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="350">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/bin/lib/selenium-server-standalone-2.53.0.jar!/org/openqa/selenium/By.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
+        <state relative-caret-position="1475">
           <caret line="74" column="17" lean-forward="false" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
           <folding />
         </state>
@@ -921,17 +926,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runcasetest/src/com/pub/wtd/runcase/util/Environment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="350">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/bin/lib/selenium-server-standalone-2.53.0.jar!/org/openqa/selenium/By.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
+        <state relative-caret-position="1475">
           <caret line="74" column="17" lean-forward="false" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
           <folding />
         </state>
@@ -979,6 +982,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/caselist.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/runcasetest/runcasetest.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -989,7 +999,7 @@
     <entry file="file://$PROJECT_DIR$/wtdwebuicases/member/TC_ChangeUserInfo.java" />
     <entry file="jar://$PROJECT_DIR$/bin/lib/selenium-server-standalone-2.53.0.jar!/org/openqa/selenium/By.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
+        <state relative-caret-position="1475">
           <caret line="74" column="17" lean-forward="false" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
           <folding />
         </state>
@@ -997,61 +1007,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runcasetest/src/com/pub/wtd/runcase/util/Environment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="350">
           <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wtdwebuicases/member/TC_GoHome.java" />
-    <entry file="file://$PROJECT_DIR$/config/conf/wtd.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/caselist.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            <folding>
-              <marker date="1489301543459" expanded="true" signature="3455:4262" ph="..." />
-              <marker date="1489301543459" expanded="true" signature="3753:3976" ph="..." />
-              <marker date="1489301543459" expanded="true" signature="4045:4253" ph="..." />
-              <marker date="1489301543459" expanded="true" signature="4367:5131" ph="/**...*/" />
-              <marker date="1489301543459" expanded="true" signature="5157:5718" ph="{...}" />
-              <marker date="1489301543459" expanded="true" signature="5748:6032" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/license/license.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/runcasetest/src/RunCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="250">
+          <caret line="10" column="52" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wtdwebuicases/member/TC_GoHome.java" />
+    <entry file="file://$PROJECT_DIR$/config/conf/wtd.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/bin/lib/wtd.jar!/com/pub/wtd/util/Mail.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1875">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding />
         </state>
       </provider>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CaseList>
-	<testCase name="TC_BaiDuSearch" module="member" type="common" />
-	<testCase name="TC_XiaomuwuLogin" module="xiaomuwu" type="common" />
-	<testCase name="TC_XiaomuwuAbout" module="xiaomuwu" type="interface" />
+	<!--type="common"就是网页自动化case,type="interface"就是接口测试case. module 就是case的父目录名。暂时不想跑的case可以删除或者注释掉-->
+	<testCase name="TC_BaiDuSearch" module="demo" type="common" />
+	<!--<testCase name="TC_XiaomuwuLogin" module="demo" type="common" />-->
+	<testCase name="TC_XiaomuwuAbout" module="demo" type="interface" />
 </CaseList>
