@@ -1,4 +1,4 @@
-作者 何坤<3163172384@qq.com>, qq群：524212543 ， 个人博客：http://blog.jpmovie.cn
+作者 何坤<3163172384@qq.com>, 技术问题qq群：524212543 ， 个人博客：http://blog.jpmovie.cn
 
 ### 版本更新
 
