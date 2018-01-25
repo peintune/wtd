@@ -25,7 +25,7 @@ wtd是基于selenium开发的，框架提供了很多通用的方法和接口，
 ### 快速开始
 ##### 1. 环境准备并运行demo
 - 下载wtd测试框架: git clone https://github.com/peintune/wtd.git 或者直接download
-- 本地安装好JDK
+- 本地安装好JDK，然后将jdk/lib 目录下的tool.jar文件复制到jre/lib 目录下，否则框架可能报空指针异常。
 - 本地安装[IDEA](https://www.jetbrains.com/idea/)开发环境。
 - 打开IDEA，导入wtd整个项目
 - 在IDEA开发环境中，直接运行 RunCaseTest类
