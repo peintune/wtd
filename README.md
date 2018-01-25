@@ -28,15 +28,15 @@ wtd是基于selenium开发的，框架提供了很多通用的方法和接口，
 - 本地安装好JDK，然后将jdk/lib 目录下的tool.jar文件复制到jre/lib 目录下，否则框架可能报空指针异常。
 - 本地安装[IDEA](https://www.jetbrains.com/idea/)开发环境。
 - 打开IDEA，导入wtd整个项目
-- 在IDEA开发环境中，直接运行 RunCaseTest类
-###### 1.2 运行自己开发好的case
-- 开发环境中运行：在IDEA开发环境中，更改caselist.cfg.xml文件，直接运行 RunCaseTest类
-- 正式部署环境中运行，直接复制开发好的接口case(TC_xxx.xml)或者UI自动化case(TC_xxx.java)到正式测试环境中的对应目录中。更改caselist.cfg.xml文件，然后双击wtd.bat脚本启动。
-- 正式部署环境定时循环任务：打开window终端运行  ./wtd.bat 2 5 3600,（2代表开始小时时间为2点，5代表循环执行5次，3600代表每次循环间隔为3600s）
+- 在IDEA开发环境中，直接运行 runcasetest/src 目录下的RunCaseTest 类
+###### 2 运行自己开发好的case
+- 如果在开发环境中运行：在IDEA开发环境中，更改caselist.cfg.xml文件，直接运行 RunCaseTest类
+- 如果在正式部署环境中运行：直接复制开发好的接口case(TC_xxx.xml)或者UI自动化case(TC_xxx.java)到正式测试环境中的对应目录中。更改caselist.cfg.xml文件，然后双击wtd.bat脚本启动。
+- 正式部署环境定时循环任务：打开window终端运行  ./wtd.bat 18 5 3600,（18代表开始第一次执行时间为18点，5代表循环执行5次，3600代表每次循环间隔为3600s）
 
 以上，所有开发环境准备完成，可以开始写case了。
 
-##### 2. 框架目录结构
+###  框架目录结构
 - 所有的接口测试case都在wtdapicases/interfaces目录下，你可以根据需要自己在这个目录下建模块，比如member.注意public目录不存放case,但是可以保持公共接口。比如有50个接口case都需要依赖登录接口后才能测试，那么可以写一个登录接口放到public目录下，然后在50个case里面都调一下这个登录的接口。
 - 所有的网页自动化case都在wtdwebuicases目录下。你可以根据需要自己在这个目录下建模块，比如member。这些case都是java文件。在部署到正式测试环境时不需要打包成jar或者编译成.class文件，只需要将源java文件放到对应正式测试环境，wtd会自动在执行的时候编译这个case的java文件的。
 - wtd的配置文件是wtd.cfg.xml,里面可以配置UI自动化要启动的浏览器类型，比如chrome,firefox,safari。还有相关测试人员的邮件地址。
