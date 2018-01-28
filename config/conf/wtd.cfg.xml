@@ -13,12 +13,22 @@
 		<!--fireFox location="C:\Program Files\Mozilla Firefox\firefox.exe"/-->
 		<!--<ie location=""/>-->
 		<chrome location=""></chrome>
-  		<!--<safari location=""></safari>-->
- </Browser>
+		<!--<safari location=""></safari>-->
+	</Browser>
+
+	<MailSubject value="自动化测试报告"/>
+
+	<!--报告发件邮件，如果 enable ="false",那么测试结果不会发送邮件报告,如果usedefault="true"，那么框架将用系统框架默认的邮件服务器发送报告。如果usedefault="false",那么将用下面的配置里的邮件服务器发送邮件 -->
+	<MailSender enable ="false" usedefault="true">
+		<protocol value="smtp"/>
+		<host value="smtp.163.com"/>
+		<port value="25"/>
+		<mail value="AutoTest_QA@163.com"/>
+		<password value="xxxxx"/>
+	</MailSender>
 
 	<!--报告收件人可以设置多个，只需增加 <user email="xxx.xxx"></user>即可 -->
 	<MailReceptor>
 		<user email="3163172384@qq.com"></user>
 	</MailReceptor>
-	<MailSubject value="自动化测试报告"/>
 </wtd-configuration>

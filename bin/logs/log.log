@@ -283,3 +283,318 @@ Session ID: 364f99347a10180a950c9b85f0d08de2
 2018-01-21 01:26:16,204 INFO [root] - ###########################################################################################
 2018-01-21 01:26:16,205 INFO [root] - ###########################################################################################
 2018-01-21 01:26:16,205 INFO [root] - ###########################################################################################
+2018-01-21 01:33:04,861 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:33:04,861 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:33:04,862 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:35:02,779 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:35:02,780 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:35:02,780 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:35:04,745 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ fail °ø  {can not go to home page}
+2018-01-21 01:35:04,754 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:35:05,111 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_35_02_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_35_05_110.jpg ~~~~~~~~~~~~
+2018-01-21 01:35:05,122 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:35:07,648 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2018-01-21 01:35:07,653 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:35:07,960 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_35_02_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_35_07_960.jpg ~~~~~~~~~~~~
+2018-01-21 01:35:07,964 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:35:07,969 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:35:07,969 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:35:07,969 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:35:07,969 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:35:07,969 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:35:07,969 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:35:07,971 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:35:07,971 INFO [root] - ###########################################################################################
+2018-01-21 01:35:07,973 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:35:07,974 INFO [root] - ################## Start to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:35:39,080 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:35:39,080 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:35:39,080 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:37:53,050 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:37:53,050 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:37:53,050 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:37:54,605 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ fail °ø  {can not go to home page}
+2018-01-21 01:37:54,615 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:37:54,940 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_37_53_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_37_54_939.jpg ~~~~~~~~~~~~
+2018-01-21 01:37:54,952 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:37:57,345 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2018-01-21 01:37:57,350 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:37:57,630 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_37_53_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_37_57_630.jpg ~~~~~~~~~~~~
+2018-01-21 01:37:57,634 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:37:57,640 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:37:57,640 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:37:57,640 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:37:57,640 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:37:57,640 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:37:57,640 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:37:57,641 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:37:57,641 INFO [root] - ###########################################################################################
+2018-01-21 01:37:57,641 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:37:57,642 INFO [root] - ################## Start to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:38:00,787 INFO [root] - °æTest 1°ø          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:38:00,787 INFO [root] - °æResponse 1°ø     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:38:00,787 INFO [root] - °æexpect words°ø     πÿ”⁄–°ƒæŒ›
+2018-01-21 01:38:00,787 INFO [root] - °æResult 1°ø       fail
+2018-01-21 01:38:00,787 INFO [root] - ............
+2018-01-21 01:38:00,795 INFO [root] - ################## Finish to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:38:00,795 INFO [root] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:38:00,795 INFO [root] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:38:00,796 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:38:00,796 INFO [root] - ###########################################################################################
+2018-01-21 01:38:00,796 INFO [root] - ###########################################################################################
+2018-01-21 01:38:00,796 INFO [root] - ###########################################################################################
+2018-01-21 01:39:06,148 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:39:06,148 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:39:06,148 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:39:07,639 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ fail °ø  {can not go to home page}
+2018-01-21 01:39:07,647 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:39:07,980 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_39_06_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_39_07_980.jpg ~~~~~~~~~~~~
+2018-01-21 01:39:07,992 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:39:10,516 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2018-01-21 01:39:10,520 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:39:10,814 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_39_06_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_39_10_814.jpg ~~~~~~~~~~~~
+2018-01-21 01:39:10,820 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:39:10,825 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:39:10,825 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:39:10,826 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:39:10,826 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:39:10,826 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:39:10,826 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:39:10,826 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:39:10,826 INFO [root] - ###########################################################################################
+2018-01-21 01:39:10,826 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:39:10,827 INFO [root] - ################## Start to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:39:12,888 INFO [root] - °æTest 1°ø          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:39:12,889 INFO [root] - °æResponse 1°ø     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:39:12,889 INFO [root] - °æexpect words°ø     πÿ”⁄–°ƒæŒ›
+2018-01-21 01:39:12,889 INFO [root] - °æResult 1°ø       fail
+2018-01-21 01:39:12,890 INFO [root] - ............
+2018-01-21 01:39:12,905 INFO [root] - ################## Finish to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:39:12,906 INFO [root] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:39:12,906 INFO [root] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:39:12,906 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:39:12,906 INFO [root] - ###########################################################################################
+2018-01-21 01:39:12,906 INFO [root] - ###########################################################################################
+2018-01-21 01:39:12,907 INFO [root] - ###########################################################################################
+2018-01-21 01:39:28,283 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:39:28,284 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:39:28,284 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:39:29,622 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ fail °ø  {can not go to home page}
+2018-01-21 01:39:29,628 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:39:29,952 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_39_28_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_39_29_952.jpg ~~~~~~~~~~~~
+2018-01-21 01:39:29,964 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:39:32,284 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2018-01-21 01:39:32,288 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:39:32,557 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_39_28_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_39_32_557.jpg ~~~~~~~~~~~~
+2018-01-21 01:39:32,561 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:39:32,567 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:39:32,567 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:39:32,567 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:39:32,567 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:39:32,567 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:39:32,567 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:39:32,567 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:39:32,567 INFO [root] - ###########################################################################################
+2018-01-21 01:39:32,567 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:39:32,567 INFO [root] - ################## Start to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:39:34,650 INFO [root] - °æTest 1°ø          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:39:34,651 INFO [root] - °æResponse 1°ø     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:39:34,651 INFO [root] - °æexpect words°ø     πÿ”⁄–°ƒæŒ›
+2018-01-21 01:39:34,651 INFO [root] - °æResult 1°ø       fail
+2018-01-21 01:39:34,651 INFO [root] - ............
+2018-01-21 01:39:34,663 INFO [root] - ################## Finish to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:39:34,663 INFO [root] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:39:34,663 INFO [root] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:39:34,664 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:39:34,664 INFO [root] - ###########################################################################################
+2018-01-21 01:39:34,664 INFO [root] - ###########################################################################################
+2018-01-21 01:39:34,664 INFO [root] - ###########################################################################################
+2018-01-21 01:40:15,760 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:40:15,760 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:40:15,760 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:40:17,105 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ fail °ø  {can not go to home page}
+2018-01-21 01:40:17,113 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:40:17,447 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_40_15_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_40_17_447.jpg ~~~~~~~~~~~~
+2018-01-21 01:40:17,498 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:40:19,906 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2018-01-21 01:40:19,910 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:40:20,188 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_40_15_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_40_20_188.jpg ~~~~~~~~~~~~
+2018-01-21 01:40:20,192 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:40:20,201 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:40:20,201 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:40:20,202 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:40:20,202 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:40:20,202 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:40:20,202 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:40:20,203 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:40:20,204 INFO [root] - ###########################################################################################
+2018-01-21 01:40:20,204 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:40:20,205 INFO [root] - ################## Start to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:40:22,408 INFO [root] - °æTest 1°ø          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:40:22,408 INFO [root] - °æResponse 1°ø     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:40:22,408 INFO [root] - °æexpect words°ø     πÿ”⁄–°ƒæŒ›
+2018-01-21 01:40:22,408 INFO [root] - °æResult 1°ø       fail
+2018-01-21 01:40:22,408 INFO [root] - ............
+2018-01-21 01:40:22,419 INFO [root] - ################## Finish to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:40:22,419 INFO [root] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:40:22,420 INFO [root] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:40:22,420 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:40:22,420 INFO [root] - ###########################################################################################
+2018-01-21 01:40:22,420 INFO [root] - ###########################################################################################
+2018-01-21 01:40:22,421 INFO [root] - ###########################################################################################
+2018-01-21 01:42:05,172 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:42:05,172 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:42:05,173 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:42:07,080 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ fail °ø  {can not go to home page}
+2018-01-21 01:42:07,088 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:42:07,430 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_42_05_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_42_07_430.jpg ~~~~~~~~~~~~
+2018-01-21 01:42:07,442 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:42:10,115 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2018-01-21 01:42:10,120 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:42:10,463 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_42_05_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_42_10_463.jpg ~~~~~~~~~~~~
+2018-01-21 01:42:10,466 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:42:10,471 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:42:10,471 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:42:10,471 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:42:10,471 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:42:10,472 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:42:10,472 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:42:10,472 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:42:10,472 INFO [root] - ###########################################################################################
+2018-01-21 01:42:10,472 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:42:10,472 INFO [root] - ################## Start to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:42:12,637 INFO [root] - °æTest 1°ø          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:42:12,637 INFO [root] - °æResponse 1°ø     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:42:12,638 INFO [root] - °æexpect words°ø     πÿ”⁄–°ƒæŒ›
+2018-01-21 01:42:12,638 INFO [root] - °æResult 1°ø       fail
+2018-01-21 01:42:12,638 INFO [root] - ............
+2018-01-21 01:42:12,654 INFO [root] - ################## Finish to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:42:12,654 INFO [root] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:42:12,654 INFO [root] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:42:12,655 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:42:12,655 INFO [root] - ###########################################################################################
+2018-01-21 01:42:12,655 INFO [root] - ###########################################################################################
+2018-01-21 01:42:12,656 INFO [root] - ###########################################################################################
+2018-01-21 01:42:54,433 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:42:54,433 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-21 01:42:54,433 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:42:56,082 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ GoToHome °ø  : (ªÿµΩ ◊“≥)  is °æ fail °ø  {can not go to home page}
+2018-01-21 01:42:56,091 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:42:56,446 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_42_54_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_42_56_446.jpg ~~~~~~~~~~~~
+2018-01-21 01:42:56,459 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:42:58,828 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point °æ ≤‚ ‘À—À˜ °ø  : (≤‚ ‘À—À˜π¶ƒ‹)  is °æ pass °ø 
+2018-01-21 01:42:58,832 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:42:59,125 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-21 01_42_54_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-21 01_42_59_125.jpg ~~~~~~~~~~~~
+2018-01-21 01:42:59,129 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-21 01:42:59,135 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: °æ TC_BaiDuSearch~demo~common °ø####################
+2018-01-21 01:42:59,135 INFO [TC_BaiDuSearch.class] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:42:59,135 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:42:59,135 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-21 01:42:59,135 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:42:59,135 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:42:59,135 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-21 01:42:59,135 INFO [root] - ###########################################################################################
+2018-01-21 01:42:59,136 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-21 01:42:59,136 INFO [root] - ################## Start to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:43:02,053 INFO [root] - °æTest 1°ø          http://blog.jpmovie.cn/?page_id=67
+2018-01-21 01:43:02,053 INFO [root] - °æResponse 1°ø     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-21 01:43:02,053 INFO [root] - °æexpect words°ø     πÿ”⁄–°ƒæŒ›
+2018-01-21 01:43:02,053 INFO [root] - °æResult 1°ø       fail
+2018-01-21 01:43:02,053 INFO [root] - ............
+2018-01-21 01:43:02,062 INFO [root] - ################## Finish to Execute Case: °æ TC_XiaomuwuAbout~demo~interface °ø####################
+2018-01-21 01:43:02,062 INFO [root] - #################### Test Result is : °æ fail °ø####################
+2018-01-21 01:43:02,063 INFO [root] - ################## The Test Description is : °æ ≤‚ ‘∞Ÿ∂»À—À˜π¶ƒ‹ °ø####################
+2018-01-21 01:43:02,063 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-21 01:43:02,064 INFO [root] - ###########################################################################################
+2018-01-21 01:43:02,064 INFO [root] - ###########################################################################################
+2018-01-21 01:43:02,064 INFO [root] - ###########################################################################################
+2018-01-28 11:51:27,332 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-28 11:51:27,363 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-28 11:51:27,363 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: „Äê TC_BaiDuSearch~demo~common „Äë####################
+2018-01-28 11:51:28,673 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point „Äê GoToHome „Äë  : (ÂõûÂà∞È¶ñÈ°µ)  is „Äê fail „Äë  {can not go to home page}
+2018-01-28 11:51:28,680 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-28 11:51:29,023 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-28 11_51_27_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-28 11_51_29_23.jpg ~~~~~~~~~~~~
+2018-01-28 11:51:29,041 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-28 11:51:31,471 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point „Äê ÊµãËØïÊêúÁ¥¢ „Äë  : (ÊµãËØïÊêúÁ¥¢ÂäüËÉΩ)  is „Äê pass „Äë 
+2018-01-28 11:51:31,475 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-28 11:51:31,745 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-28 11_51_27_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-28 11_51_31_745.jpg ~~~~~~~~~~~~
+2018-01-28 11:51:31,749 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-28 11:51:31,754 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: „Äê TC_BaiDuSearch~demo~common „Äë####################
+2018-01-28 11:51:31,755 INFO [TC_BaiDuSearch.class] - #################### Test Result is : „Äê fail „Äë####################
+2018-01-28 11:51:31,755 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : „Äê ÊµãËØïÁôæÂ∫¶ÊêúÁ¥¢ÂäüËÉΩ „Äë####################
+2018-01-28 11:51:31,755 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-28 11:51:31,755 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-28 11:51:31,755 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-28 11:51:31,755 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-28 11:51:31,755 INFO [root] - ###########################################################################################
+2018-01-28 11:51:31,755 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-28 11:51:31,755 INFO [root] - ################## Start to Execute Case: „Äê TC_XiaomuwuAbout~demo~interface „Äë####################
+2018-01-28 11:51:34,739 INFO [root] - „ÄêTest 1„Äë          http://blog.jpmovie.cn/?page_id=67
+2018-01-28 11:51:34,739 INFO [root] - „ÄêResponse 1„Äë     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-28 11:51:34,739 INFO [root] - „Äêexpect words„Äë     ÂÖ≥‰∫éÂ∞èÊú®Â±ã
+2018-01-28 11:51:34,739 INFO [root] - „ÄêResult 1„Äë       pass
+2018-01-28 11:51:34,739 INFO [root] - ............
+2018-01-28 11:51:34,850 INFO [root] - ################## Finish to Execute Case: „Äê TC_XiaomuwuAbout~demo~interface „Äë####################
+2018-01-28 11:51:34,850 INFO [root] - #################### Test Result is : „Äê pass „Äë####################
+2018-01-28 11:51:34,850 INFO [root] - ################## The Test Description is : „Äê ÊµãËØïÁôæÂ∫¶ÊêúÁ¥¢ÂäüËÉΩ „Äë####################
+2018-01-28 11:51:34,851 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-28 11:51:34,851 INFO [root] - ###########################################################################################
+2018-01-28 11:51:34,851 INFO [root] - ###########################################################################################
+2018-01-28 11:51:34,851 INFO [root] - ###########################################################################################
+2018-01-28 11:52:41,932 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-28 11:52:41,933 INFO [TC_BaiDuSearch.class] - ###################################### WTD Start ##########################################
+2018-01-28 11:52:41,933 INFO [TC_BaiDuSearch.class] - ################## Start to Execute Case: „Äê TC_BaiDuSearch~demo~common „Äë####################
+2018-01-28 11:52:43,134 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point „Äê GoToHome „Äë  : (ÂõûÂà∞È¶ñÈ°µ)  is „Äê fail „Äë  {can not go to home page}
+2018-01-28 11:52:43,143 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-28 11:52:43,569 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-28 11_52_41_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-28 11_52_43_568.jpg ~~~~~~~~~~~~
+2018-01-28 11:52:43,579 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-28 11:52:45,975 INFO [TC_BaiDuSearch.class] - ~~~~~~ Test Point „Äê ÊµãËØïÊêúÁ¥¢ „Äë  : (ÊµãËØïÊêúÁ¥¢ÂäüËÉΩ)  is „Äê pass „Äë 
+2018-01-28 11:52:45,979 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ Start to Capture the Screen ~~~~~~~~~~~~
+2018-01-28 11:52:46,289 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~ The Screen Capture is :F:\work\projects\ideaworkspace\wtd\bin\logs\2018-01-28 11_52_41_ChromeDriver\common_demo_TC_BaiDuSearch\2018-01-28 11_52_46_289.jpg ~~~~~~~~~~~~
+2018-01-28 11:52:46,292 INFO [TC_BaiDuSearch.class] - ~~~~~~~~~~~~Finish to Capture the Screen ~~~~~~~~~~~~
+2018-01-28 11:52:46,296 INFO [TC_BaiDuSearch.class] - ################## Finish to Execute Case: „Äê TC_BaiDuSearch~demo~common „Äë####################
+2018-01-28 11:52:46,297 INFO [TC_BaiDuSearch.class] - #################### Test Result is : „Äê fail „Äë####################
+2018-01-28 11:52:46,297 INFO [TC_BaiDuSearch.class] - ################## The Test Description is : „Äê ÊµãËØïÁôæÂ∫¶ÊêúÁ¥¢ÂäüËÉΩ „Äë####################
+2018-01-28 11:52:46,297 INFO [TC_BaiDuSearch.class] - ######################################  WTD Finished ######################################
+2018-01-28 11:52:46,297 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-28 11:52:46,297 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-28 11:52:46,297 INFO [TC_BaiDuSearch.class] - ###########################################################################################
+2018-01-28 11:52:46,298 INFO [root] - ###########################################################################################
+2018-01-28 11:52:46,299 INFO [root] - ###################################### WTD Start ##########################################
+2018-01-28 11:52:46,299 INFO [root] - ################## Start to Execute Case: „Äê TC_XiaomuwuAbout~demo~interface „Äë####################
+2018-01-28 11:52:48,893 INFO [root] - „ÄêTest 1„Äë          http://blog.jpmovie.cn/?page_id=67
+2018-01-28 11:52:48,894 INFO [root] - „ÄêResponse 1„Äë     		<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+	...
+2018-01-28 11:52:48,897 INFO [root] - „Äêexpect words„Äë     ÂÖ≥‰∫éÂ∞èÊú®Â±ã
+2018-01-28 11:52:48,898 INFO [root] - „ÄêResult 1„Äë       pass
+2018-01-28 11:52:48,899 INFO [root] - ............
+2018-01-28 11:52:48,919 INFO [root] - ################## Finish to Execute Case: „Äê TC_XiaomuwuAbout~demo~interface „Äë####################
+2018-01-28 11:52:48,919 INFO [root] - #################### Test Result is : „Äê pass „Äë####################
+2018-01-28 11:52:48,923 INFO [root] - ################## The Test Description is : „Äê ÊµãËØïÁôæÂ∫¶ÊêúÁ¥¢ÂäüËÉΩ „Äë####################
+2018-01-28 11:52:48,926 INFO [root] - ######################################  WTD Finished ######################################
+2018-01-28 11:52:48,927 INFO [root] - ###########################################################################################
+2018-01-28 11:52:48,928 INFO [root] - ###########################################################################################
+2018-01-28 11:52:48,929 INFO [root] - ###########################################################################################
