@@ -30,7 +30,7 @@ wtd是基于selenium开发的，框架提供了很多通用的方法和接口，
 - 下载wtd测试框架: git clone https://github.com/peintune/wtd.git 或者直接download
 - 本地安装好JDK，然后将jdk/lib 目录下的tool.jar文件复制到jre/lib 目录下，否则框架可能报空指针异常。
 - 本地安装[IDEA](https://www.jetbrains.com/idea/)开发环境。
-- 打开IDEA，导入wtd整个项目
+- 打开IDEA，导入wtd整个项目,在IDEA中以此点击File->Project Structure->Porject , 选择jdk1.8后Ok.
 - 在IDEA开发环境中，直接运行 runcasetest/src 目录下的RunCaseTest 类
 ###### 2 运行自己开发好的case
 - 如果在开发环境中运行：在IDEA开发环境中，更改caselist.cfg.xml文件，直接运行 RunCaseTest类
