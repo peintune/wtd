@@ -1,5 +1,4 @@
-作者 何坤<3163172384@qq.com>, 技术问题qq群：524212543 ， 个人博客：http://blog.jpmovie.cn
-
+作者 何坤<3163172384@qq.com>, 技术问题qq群：524212543 ， 个人博客：http://blog.tomiyo.cn, 搜索引擎：http://tomiyo.cn
 ### 版本更新
 
 v2.3    2018/01/28 
@@ -148,7 +147,7 @@ wtd是基于selenium开发的，框架提供了很多通用的方法和接口，
 -	isCurrentURL(String url)方法：返回类型：boolean
 调用此方法会判断当前URL是否和传入的URL一样，并返回判断结果，true是表示一样的。
 
->	更多方法可以参考com.pub.wtd.common.BaseCase 类和webdiver对象中的方法。或者登陆 [小木屋](http://snappydata.top)
+>	更多方法可以参考com.pub.wtd.common.BaseCase 类和webdiver对象中的方法。或者登陆 [何坤的个人博客](http://blog.tomiyo.cn)
 
 ##### 12. 如何调试运行case：
 1.	调试运行case：
