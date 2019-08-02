@@ -1,4 +1,4 @@
-作者 何坤<3163172384@qq.com>, 技术问题qq群：524212543 ， 个人博客：http://blog.tomiyo.cn, 搜索引擎：http://tomiyo.cn
+作者 <3163172384@qq.com>, 技术问题qq群：524212543
 ### 版本更新
 
 v2.3    2018/01/28 
@@ -239,4 +239,3 @@ public class TC_BaiDuSearch extends BaseCase {
    }
 }
 ```
-精品电影网：http://www.jpmovie.cn
